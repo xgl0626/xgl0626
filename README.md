@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am glin, I’m currently studing on Chongqing University, I’m currently learning NLP、LLM、MLLM、Cross model.
+I am glin, I’m currently studing on Chongqing University, I’m currently learning NLP、LLM、MLLM.
 
 平时喜欢参加一些AI算法竞赛下面是一些获奖记录：
 
