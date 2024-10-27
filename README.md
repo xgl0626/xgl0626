@@ -28,3 +28,5 @@ I am glin, I’m currently studing on Chongqing University, I’m currently lear
 2024年百度商业AI 技术创新大赛-基于大模型的广告检索-西部赛区TOP1
 
 2024年OAG-Challenge-PST-KDD-2024-TOP4
+
+2024年百度搜索文心智能体创新大赛-TOP2
