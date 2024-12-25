@@ -7,6 +7,8 @@ I am glin, I’m currently studing on Chongqing University, I’m currently lear
 
 2022年百度搜索首届技术创新挑战赛-搜索问答-TOP2
 
+2023 GoDaddy - Microbusiness Density Forecasting-183/3547 🥉
+
 2023年百度千言第二届事实一致性生成评测比赛-TOP7
 
 2023年GAIIC-医学影像诊断报告生成-全国三等奖(TOP14)
@@ -30,3 +32,5 @@ I am glin, I’m currently studing on Chongqing University, I’m currently lear
 2024年OAG-Challenge-PST-KDD-2024-TOP4
 
 2024年百度搜索文心智能体创新大赛-TOP2
+
+2024 Eedi - Mining Misconceptions in Mathematics 139/1471 🥉
