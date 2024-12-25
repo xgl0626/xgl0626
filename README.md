@@ -21,7 +21,7 @@ I am glin, I’m currently studing on Chongqing University, I’m currently lear
 
 2023年ATEC科技精英赛-AI生成新闻检测-TOP8
 
-2024年福建省大数据集团有限公司智能算法赛道-智能文本纠错-Top3
+2024年福建省大数据集团有限公司智能算法赛道-智能文本纠错-Top2
 
 2024年DCIC-少样本条件下的社交平台话题识别-TOP5
 
