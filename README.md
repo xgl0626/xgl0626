@@ -34,3 +34,4 @@ I am glin, I’m currently studing on Chongqing University, I’m currently lear
 2024年百度搜索文心智能体创新大赛-TOP2
 
 2024 Eedi - Mining Misconceptions in Mathematics 139/1471 🥉
+2024 WSDM Cup - Multilingual Chatbot Arena 40/950 🥈
