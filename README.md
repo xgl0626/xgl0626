@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am glin, I’m currently studing on Chongqing University, I’m currently learning NLP、LLM、MLLM.
 
-平时喜欢参加一些AI算法竞赛下面是一些获奖记录：
+平时喜欢参加一些AI算法竞赛下面是一些获奖与名次记录：
 
 2022年“飞桨杯”人工智能创新大赛-社交网络大数据谣言核查-TOP1
 
