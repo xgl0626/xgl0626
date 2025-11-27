@@ -37,4 +37,4 @@ Agent Function Call-2024年百度搜索文心智能体创新大赛 TOP2
 
 文本分类-2024 WSDM Cup - Multilingual Chatbot Arena 40/950 银牌
 
-生成式推荐-腾讯广告算法大赛 8/1334
+生成式推荐-腾讯广告算法大赛 6/1334
